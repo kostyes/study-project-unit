@@ -1,0 +1,44 @@
+.button{
+    display: inline-block;
+    height: 60px;
+    border-radius: 30px;
+    background-color: #00C470;
+    padding-left: 40px;
+    padding-right: 40px;
+
+    color: #FFF;
+
+    font-size: 14px;
+    font-weight: 800;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    line-height: 60px;
+    border: none;
+
+    cursor: pointer;
+    transition: .3s;  
+}
+
+.section-cta__content .button{
+    display: inline-block;
+    text-decoration: none;
+}
+
+
+.button:hover{
+    background-color: #02a05c;
+}
+
+.button:focus{
+    outline:none;
+    background-color: #028f52;
+
+}
+
+.slider__arrow {transition: .3s;}
+
+.slider__arrow path {transition: .3s;}
+
+.slider__arrow:hover {background-color: #00C470;}
+
+.slider__arrow:hover path {stroke: white;}

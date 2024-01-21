@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,kBAAmB;EACf,WAAW,EAAE,IAAI;EACjB,cAAc,EAAE,IAAI;;;AAIxB,0BAA2B;EACvB,cAAc,EAAE,IAAI;EACpB,UAAU,EAAE,MAAM;;;AAEtB,yBAA0B;EACtB,cAAc,EAAE,IAAI;;;AAMxB,uBAAwB;EACpB,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,KAAK;EAClB,YAAY,EAAE,KAAK;;;AAGvB,2BAA4B;EACxB,YAAY,EAAE,IAAI;EAClB,WAAW,EAAE,IAAI;EACjB,WAAW,EAAE,CAAC",
+"sources": ["../../sass/blocks/section-fuctional.scss"],
+"names": [],
+"file": "section-fuctional.css"
+}

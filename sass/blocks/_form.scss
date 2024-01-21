@@ -1,0 +1,42 @@
+
+.input {
+
+    display: inline-block;
+    height: 60px;
+    border-radius: 30px;
+    background-color: rgba(0, 0, 0, 0.75);
+
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 60px;
+    color:white;
+
+    padding-left: 30px;
+    padding-right: 30px;
+    border: none;
+    flex-shrink: 0;
+    flex-grow: 0;
+
+    /*Mobile*/
+    @media (max-width: 899px) {
+        padding-left: 46px;
+        padding-right: 46px;
+    }
+    /*Mobile XS*/
+    @media (max-width: 599px) {
+        padding-left: 36px;
+        padding-right: 36px;
+    }
+
+}
+
+.input:focus{
+    outline: none;
+    background-color: black;
+ }
+
+.input::placeholder{
+    color:white;
+}
+
+
